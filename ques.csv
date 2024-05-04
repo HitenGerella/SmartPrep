@@ -1,0 +1,21 @@
+Question,Option A,Option B,Option C,Option D,Expected Answer
+What is the superclass of all classes in Java?,Object,Class,Superclass,Base,Option A
+Which keyword is used to define a subclass in Java?,extends,implements,subclassOf,inherits,Option A
+What is the default value of the data type double in Java?,0,0.0,null,undefined,Option B
+Which method is called when an object is created in Java?,constructor(),start(),main(),init(),Option A
+What is the size of int data type in Java?,8 bits,16 bits,32 bits,64 bits,Option C
+Which of the following is a marker interface in Java?,Serializable,Cloneable,Runnable,Comparable,Option A
+What is the purpose of the static keyword in Java?,to indicate a method that belongs to the class and not to instances,to create multiple instances of a class,to make a class abstract,to define constants,Option A
+Which exception is thrown when an array is accessed with an illegal index in Java?,ArrayIndexOutOfBoundsException,NullPointerException,IndexOutOfBoundsException,IllegalArgumentException,Option A
+What is the difference between == and .equals() method in Java?,== compares the references of objects, .equals() compares their values,.equals() compares the references of objects, == compares their values,Both are used to compare values,Both are used to compare references,Option A
+What is the output of the code snippet: System.out.println(10 % 3)?,1,2,3,0,Option A
+Which Java keyword is used to define a constant value?,final,constant,constantValue,define,Option A
+What does JVM stand for?,Java Virtual Machine,Java Variable Machine,Java Visual Machine,Java Value Machine,Option A
+What is the purpose of the keyword synchronized in Java?,to synchronize the access of instance variables across multiple threads,to define a synchronized block of code,to indicate that a method can be accessed by multiple threads simultaneously,to prevent method overriding,Option A
+Which method is used to convert a string to an integer in Java?,parseInt(),toInteger(),convertToInt(),stringToInt(),Option A
+What is the purpose of the finalize() method in Java?,to clean up system resources before an object is garbage collected,to finalize the values of instance variables,to mark an object as final,to free memory allocated to an object,Option A
+Which data structure is used to implement a LIFO (Last-In-First-Out) mechanism in Java?,Stack,Queue,List,Array,Option A
+What is the purpose of the transient keyword in Java?,to prevent serialization of a variable,to make a variable non-transient,to indicate that a variable is not initialized,to define a transient method,Option A
+What is the purpose of the finally block in Java exception handling?,to execute code regardless of whether an exception occurs or not,to catch exceptions,to handle exceptions,to define final methods,Option A
+Which operator is used to perform short-circuit logical AND in Java?,&&,&,||,|,Option A
+What is the purpose of the super keyword in Java?,to access superclass methods and variables,to call the superclass constructor,to define a superclass,to indicate inheritance,Option A
