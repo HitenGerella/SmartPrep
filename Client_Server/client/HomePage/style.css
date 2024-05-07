@@ -1,0 +1,237 @@
+:root{
+    --mainclr:#5B0888;
+}
+body{
+    margin:0;
+    
+    border-radius: 50px;
+    /* background-color: ; */
+}
+.header{
+    /* margin: 0 6rem; */
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem;
+    /* background-color: put; */
+    /* color: rgb(175, 42, 175); */
+    /* position: fix; */
+}
+.header__title{
+    color:  #5B0888;
+    font-family: 'Raleway', sans-serif;
+}
+.header__registered{
+    line-height: 1.5rem;
+    font-size: 20pxpx;
+    color: #fff;
+    letter-spacing: 1px;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 15px;
+    
+}
+/* .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+.navbar a{
+    color: #5B0888;
+    font-size: 15px;
+    font-weight: 290;
+    border-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar a:hover {
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+.login{
+    color: #5B0888;
+    display: flex;
+    justify-items: flex-end;
+    gap: 10px;
+}
+
+.signup{
+    border: 1px solid #5B0888;
+    height: 20px;
+    border-radius: 5px;
+    background-color: #5B0888;
+}
+.row{
+    position: relative;
+    display: flex;
+    margin: 0 4rem;
+    padding: 0 2rem;
+}
+.row .content{
+    position: absolute;
+    top: 10%;
+    font-size: 2rem;
+    color:#5B0888;
+}
+.row h2{
+    margin-bottom: 5px;
+    font-size: 4rem;
+    font-family: 'Raleway', sans-serif;
+}
+.aap{
+    /*aap aaye ho ekdum sahi platform pr*/
+    margin-top: 0px;
+    margin-left: 9px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.col-9{
+    /* background-image: url('../../Images/bg.png'); */
+    width: 70%;
+    margin-left:43% ;
+}
+.col-9 img{
+    width: 700px;
+    height: 400px;
+    float: right;
+    
+}
+.mainclr{
+    color: var(--mainclr);
+}
+.dl_instant h5{
+    margin: 1rem;
+}
+.dl_instant h3{
+    margin: 1rem;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 1rem;
+    text-align: center;
+}
+ul{
+    padding: 0;
+    line-height: 5rem;
+    margin: 0;
+}
+.benifits{
+    display: flex;
+    gap:1rem;
+    justify-content: space-around;
+    width: 100%;
+    /* margin: 0 10px; */
+    /* margin-left: 10px; */
+    /* background-color: aqua; */
+    /* padding: 1.5rem; */
+    /* border: 2px solid black; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card img{
+    width: 15rem;
+    height: 15rem;
+    padding: 1rem ;
+    /* margin: 0 1rem */
+    margin-left: 4.5rem;
+    /* align-items: center; */
+}
+.card{
+    /* justify-content: center; */
+    box-shadow: 0 1px 3px rgb(228, 225, 225);
+    padding: 1rem;
+    /* border: 0.5px dotted rgb(213, 213, 213); */
+    margin: 0 1rem;
+    /* width: 200px; */
+}
+
+
+
+/* Compulsory */
+/* general classes */
+.bg-dark{
+    background-color: #5B0888;
+    color: white;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+}
+.text-center{
+    text-align: center;
+}
+.capitalise{
+    text-transform: capitalize;
+    font-family: 'Raleway', sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin: 2px
+}
+.mid_p{
+    display: flex;
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.p_midpara{
+    display: flex;
+    width: 900px;
+    text-align: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+}
+.dl_instant{
+    text-align: center;
+}
+.question-bank{
+    margin-top: 2rem;
+    margin: 0 1.2rem;
+}
+.question-bank h3{
+    font-size: 30px;
+    font-weight: 900;
+}
+.qb-head{
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 0;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    f
+}
+.question-bank p{
+    font-size: 30px;
+    word-spacing: 2px;
+}
+.question-bank a{
+    background-color: var(--mainclr);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+}
+.mailsection{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 1.2rem;
+    margin-top: 4rem;
+    border-top: 0.2px solid rgb(170, 166, 166);
+}
+.first{
+    margin-top: 1.5rem;
+}
+.last img{
+    width: 15rem;
+    height: 15rem;
+}

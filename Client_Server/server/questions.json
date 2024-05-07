@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Tell me about yourself."
+    },
+    {
+        "question": "What are your strengths and weaknesses?"
+    },
+    {
+        "question": "How do you handle stress and pressure?"
+    },
+    {
+        "question": "Describe a time when you resolved a conflict at work."
+    },
+    {
+        "question": "Where do you see yourself in five years?"
+    },
+    {
+        "question": "Give an example of a time you demonstrated leadership skills."
+    },
+    {
+        "question": "Explain your experience in team collaboration."
+    },
+    {
+        "question": "Describe a challenging project you worked on and how you managed it."
+    },
+    {
+        "question": "How do you handle constructive criticism?"
+    },
+    {
+        "question": "What do you know about our company?"
+    },
+    {
+        "question": "Tell me about a successful project you completed."
+    },
+    {
+        "question": "Describe a situation where you had to adapt to a major change at work."
+    },
+    {
+        "question": "What motivates you to perform your best?"
+    },
+    {
+        "question": "Explain your approach to time management."
+    },
+    {
+        "question": "How do you prioritize tasks when faced with multiple deadlines?"
+    },
+    {
+        "question": "Give an example of a time you dealt with a difficult coworker."
+    },
+    {
+        "question": "Describe your experience with performance evaluations."
+    },
+    {
+        "question": "What is your preferred work environment?"
+    },
+    {
+        "question": "Explain how you maintain a work-life balance."
+    },
+    {
+        "question": "How do you handle ethical dilemmas at the workplace?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a dissatisfied customer."
+    },
+    {
+        "question": "Tell me about a time you had to meet a tight deadline."
+    },
+    {
+        "question": "Explain your approach to resolving conflicts within a team."
+    },
+    {
+        "question": "How do you deal with ambiguity in your tasks?"
+    },
+    {
+        "question": "Give an example of a time you had to take initiative without being asked."
+    },
+    {
+        "question": "Describe a situation where you had to handle multiple priorities simultaneously."
+    },
+    {
+        "question": "Tell me about a time you successfully worked under pressure."
+    },
+    {
+        "question": "Explain your experience with working in a diverse team."
+    },
+    {
+        "question": "Describe a time when you had to persuade others to see things your way."
+    },
+    {
+        "question": "How do you handle challenging feedback from your supervisor?"
+    },
+    {
+        "question": "Tell me about a time you had to deal with a difficult decision."
+    },
+    {
+        "question": "Explain your approach to managing time-sensitive projects."
+    },
+    {
+        "question": "What steps do you take to ensure attention to detail in your work?"
+    },
+    {
+        "question": "How do you handle working with tight deadlines and limited resources?"
+    },
+    {
+        "question": "Describe a time when you successfully motivated a team."
+    },
+    {
+        "question": "Explain your experience with conflict resolution among team members."
+    },
+    {
+        "question": "How do you ensure clear communication within your team?"
+    },
+    {
+        "question": "Tell me about a time when you took ownership of a project."
+    },
+    {
+        "question": "Describe a situation where you had to deal with an upset coworker."
+    },
+    {
+        "question": "Explain your approach to providing feedback to your team members."
+    },
+    {
+        "question": "What strategies do you use to stay organized in your work?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a dissatisfied client."
+    },
+    {
+        "question": "Describe a situation where you had to negotiate with a colleague."
+    },
+    {
+        "question": "How do you approach working with difficult team members?"
+    },
+    {
+        "question": "Explain your experience with handling tight budgets and cost-cutting measures."
+    },
+    {
+        "question": "Tell me about a time when you had to handle a demanding project manager."
+    },
+    {
+        "question": "Describe a situation where you had to adapt to a sudden change in project requirements."
+    },
+    {
+        "question": "What do you think are the essential qualities of a successful team leader?"
+    },
+    {
+        "question": "How do you ensure effective communication with remote team members?"
+    },
+    {
+        "question": "Tell me about a time when you successfully resolved a customer complaint."
+    },
+    {
+        "question": "Describe a situation where you had to deal with a team member not meeting expectations."
+    },
+    {
+        "question": "How do you handle situations when you disagree with your supervisor's decision?"
+    },
+    {
+        "question": "Explain your experience with training and mentoring new team members."
+    },
+    {
+        "question": "What do you consider the most critical factors for fostering a positive work culture?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a challenging client."
+    },
+    {
+        "question": "How do you approach decision-making in a team setting?"
+    },
+    {
+        "question": "Tell me about a time when you had to deal with a difficult team member."
+    },
+    {
+        "question": "Explain your experience with conducting performance appraisals."
+    },
+    {
+        "question": "How do you handle situations where your team members have conflicting opinions?"
+    },
+    {
+        "question": "Describe a situation where you had to work with a tight budget and limited resources."
+    },
+    {
+        "question": "What steps do you take to ensure that your team delivers projects on time?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a major project setback."
+    },
+    {
+        "question": "Explain your approach to promoting diversity and inclusivity in the workplace."
+    },
+    {
+        "question": "How do you handle disagreements within your team during project planning?"
+    },
+    {
+        "question": "Describe a situation where you had to deal with a difficult vendor or supplier."
+    },
+    {
+        "question": "Tell me about a time when you had to handle a project with conflicting stakeholder interests."
+    },
+    {
+        "question": "Explain your experience with handling confidential information."
+    },
+    {
+        "question": "How do you approach conducting interviews and selecting candidates for your team?"
+    },
+    {
+        "question": "Describe a situation where you had to mediate between two team members with a conflict."
+    },
+    {
+        "question": "What steps do you take to ensure continuous professional development for your team?"
+    },
+    {
+        "question": "Tell me about a time when you had to resolve a communication breakdown within your team."
+    },
+    {
+        "question": "Explain your approach to fostering a positive work environment for your team."
+    },
+    {
+        "question": "How do you handle situations where your team is not meeting project deadlines?"
+    },
+    {
+        "question": "Describe a situation where you had to deal with a difficult decision-making process."
+    },
+    {
+        "question": "What measures do you take to ensure a safe and inclusive workplace?"
+    },
+    {
+        "question": "How do you handle team members who are resistant to change?"
+    },
+    {
+        "question": "Tell me about a time when you had to address an employee's performance issue."
+    },
+    {
+        "question": "Explain your experience with conducting disciplinary actions."
+    },
+    {
+        "question": "How do you approach providing growth opportunities for your team members?"
+    },
+    {
+        "question": "Describe a situation where you had to deal with a team member who lacked motivation."
+    },
+    {
+        "question": "What steps do you take to ensure the well-being of your team during stressful periods?"
+    },
+    {
+        "question": "Tell me about a time when you successfully onboarded a new team member."
+    },
+    {
+        "question": "How do you approach facilitating team-building activities?"
+    },
+    {
+        "question": "Explain your experience with conducting exit interviews."
+    },
+    {
+        "question": "How do you handle situations where your team members have conflicting work styles?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's personal problem affecting work."
+    },
+    {
+        "question": "What strategies do you use to retain top talent within your team?"
+    },
+    {
+        "question": "How do you ensure fair and unbiased performance evaluations for your team?"
+    },
+    {
+        "question": "Tell me about a time when you successfully resolved a team conflict without escalating the issue."
+    },
+    {
+        "question": "Explain your approach to encouraging open and honest communication within your team."
+    },
+    {
+        "question": "How do you handle team members who struggle to meet performance expectations?"
+    },
+    {
+        "question": "Describe a situation where you had to balance the workload among your team members."
+    },
+    {
+        "question": "What steps do you take to ensure a diverse candidate pool during the hiring process?"
+    },
+    {
+        "question": "How do you approach providing feedback and coaching to your team members?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's career development request."
+    },
+    {
+        "question": "Explain your experience with developing and implementing HR policies."
+    },
+    {
+        "question": "How do you ensure that your team adheres to company policies and procedures?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's ethical misconduct."
+    },
+    {
+        "question": "What strategies do you use to promote work-life balance among your team members?"
+    },
+    {
+        "question": "How do you handle situations where your team is not meeting its productivity targets?"
+    },
+    {
+        "question": "Tell me about a time when you successfully resolved a conflict between two departments."
+    },
+    {
+        "question": "Explain your approach to conducting performance improvement plans for team members."
+    },
+    {
+        "question": "How do you handle situations where your team members have interpersonal conflicts?"
+    },
+    {
+        "question": "Describe a situation where you had to deal with a team member's attendance issues."
+    },
+    {
+        "question": "What measures do you take to ensure employee engagement within your team?"
+    },
+    {
+        "question": "How do you approach providing recognition and rewards to your team members?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's professional development request."
+    },
+    {
+        "question": "Explain your experience with conducting employee satisfaction surveys."
+    },
+    {
+        "question": "How do you handle situations where your team members face burnout?"
+    },
+    {
+        "question": "Describe a situation where you had to accommodate an employee's disability or health condition."
+    },
+    {
+        "question": "What strategies do you use to promote diversity in the hiring process?"
+    },
+    {
+        "question": "How do you approach resolving conflicts between team members and clients?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's grievance or complaint."
+    },
+    {
+        "question": "Explain your experience with conducting training and development programs."
+    },
+    {
+        "question": "How do you ensure that your team members are aligned with the company's values and mission?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's time management issues."
+    },
+    {
+        "question": "What measures do you take to promote teamwork and collaboration within your team?"
+    },
+    {
+        "question": "How do you handle situations where your team members have difficulty adapting to change?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's work-related conflict with a supervisor."
+    },
+    {
+        "question": "Explain your approach to providing opportunities for skill development and career advancement."
+    },
+    {
+        "question": "How do you handle situations where your team members face discrimination or harassment?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's work-related stress."
+    },
+    {
+        "question": "What steps do you take to ensure employee privacy and data protection?"
+    },
+    {
+        "question": "How do you approach managing remote or distributed teams?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's performance improvement plan."
+    },
+    {
+        "question": "Explain your experience with conducting HR investigations."
+    },
+    {
+        "question": "How do you handle situations where your team members experience conflicts due to cultural differences?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's work-life balance issue."
+    },
+    {
+        "question": "What strategies do you use to promote employee well-being and mental health?"
+    },
+    {
+        "question": "How do you approach conducting HR-related training for team members and managers?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's work-related dispute with a coworker."
+    },
+    {
+        "question": "Explain your experience with conducting employee orientation and onboarding."
+    },
+    {
+        "question": "How do you handle situations where your team members face challenges due to remote work?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's request for a flexible work schedule."
+    },
+    {
+        "question": "What measures do you take to promote a culture of inclusion and diversity in the workplace?"
+    },
+    {
+        "question": "How do you approach addressing conflicts between team members from different departments?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's request for a sabbatical or extended leave."
+    },
+    {
+        "question": "Explain your experience with conducting HR-related workshops and seminars."
+    },
+    {
+        "question": "How do you handle situations where your team members experience job dissatisfaction?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's request for remote work or telecommuting."
+    },
+    {
+        "question": "What strategies do you use to foster a sense of belonging and community within your team?"
+    },
+    {
+        "question": "How do you approach conducting HR-related town hall meetings and communication sessions?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's request for job rotation or job enrichment."
+    },
+    {
+        "question": "Explain your experience with managing the performance appraisal process for a large team."
+    },
+    {
+        "question": "How do you handle situations where your team members face work-related challenges due to family responsibilities?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's request for a reduced or compressed workweek."
+    },
+    {
+        "question": "What measures do you take to promote diversity and representation in leadership positions within your team?"
+    },
+    {
+        "question": "How do you approach addressing conflicts and challenges within cross-functional teams?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's request for job sharing or job splitting."
+    },
+    {
+        "question": "Explain your experience with conducting HR-related focus groups and feedback sessions."
+    },
+    {
+        "question": "How do you handle situations where your team members face work-related challenges due to physical health issues?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's request for flexible start and end times."
+    },
+    {
+        "question": "What strategies do you use to promote and implement employee resource groups (ERGs) within your team?"
+    },
+    {
+        "question": "How do you approach addressing conflicts and challenges within virtual teams?"
+    },
+    {
+        "question": "Tell me about a time when you had to handle a team member's request for job sharing or job splitting."
+    },
+    {
+        "question": "Explain your experience with conducting HR-related focus groups and feedback sessions."
+    },
+    {
+        "question": "How do you handle situations where your team members face work-related challenges due to physical health issues?"
+    },
+    {
+        "question": "Describe a situation where you had to handle a team member's request for flexible start and end times."
+    },
+    {
+        "question": "What strategies do you use to promote and implement employee resource groups (ERGs) within your team?"
+    },
+    {
+        "question": "How do you approach addressing conflicts and challenges within virtual teams?"
+    }
+]

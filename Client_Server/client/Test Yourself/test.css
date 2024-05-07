@@ -1,0 +1,235 @@
+body{
+    margin:0;
+    font-family: 'Inter', sans-serif;
+}
+.header{
+    /* margin: 0 6rem; */
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem;
+    /* background-color: put; */
+    /* color: rgb(175, 42, 175); */
+    /* position: fix; */
+}
+.header__title{
+    color:  #5B0888;
+    font-family: 'Raleway', sans-serif;
+}
+/* .header__registered{
+    line-height: 1.5rem;
+    font-size: 20pxpx;
+    color: #fff
+    letter-spacing: 1px;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 15px; 
+} */
+/* .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+/* .navbar a{
+    color: #5B0888;
+    font-size: 15px;
+    font-weight: 290;
+    border-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar a:hover {
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+} */
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* a:link{
+    /* color: rgb(185, 52, 185); */
+    /* background-color: pink; */
+    /* color: black; */
+/* } */
+/* li:hover{
+    /* sca */
+    /* transform: scale(1.25); */
+/* } */ 
+/* a:active{
+    color: pink;
+} */
+/* a:visited{
+    color: blue;
+} */
+.navbar li{
+    font-family: 'Raleway', sans-serif;
+    list-style: none;
+    display: inline;
+    margin: 1rem;
+    text-align: center;
+}
+.navbar ul{
+    font-family: 'Raleway', sans-serif;
+    padding: 0;
+    line-height: 5rem;
+    margin: 0;
+}
+/* Compulsory */
+/* general classes */
+.bg-dark{
+    background-color: #5B0888;
+    color: white;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+}
+
+main {
+    padding-left: 64px;
+    padding-right: 64px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-heading {
+    font-size: 28px;
+    margin: 32px 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+#question {
+    background-color: rgb(219, 234, 254);
+}
+
+button {
+    background-color: #5B0888;
+    color: white;
+    border-radius: 4px;
+    text-transform: none;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: none;
+    font-size: 16px;
+    border-width: 0px;
+}
+
+#btn-random-question {
+    margin-top: 32px;
+    align-self: center;
+    padding: 8px 32px;
+    position: relative;
+}
+
+.step-heading {
+    margin-top: 32px;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.step-description {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.audio-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+#btn-record-answer {
+    padding: 8px 16px;
+    margin: 0;
+}
+
+.transcript-card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.step-subheading {
+    margin: 0;
+}
+
+#text-transcript {
+    resize: vertical;
+    border-width: 1px;
+    height: 90px;
+    padding: 8px;
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+}
+
+#text-transcript:focus {
+    outline-color: #5B0888;
+}
+
+#btn-get-feedback {
+    padding: 8px 32px;
+    align-self: center;
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+@keyframes button-loading-spinner {
+    from {
+        transform: rotate(0turn);
+    }
+
+    to {
+        transform: rotate(1turn);
+    }
+}
+
+.button--loading::after {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border: 4px solid transparent;
+    border-top-color: #ffffff;
+    border-radius: 50%;
+    animation: button-loading-spinner 1s ease infinite;
+}
+
+.statistics {
+    background-color: rgb(211 211 211 / 50%);
+    border-radius: 4px;
+}
+
+.statistics ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    margin: 16px;
+    overflow: hidden;
+}
+
+.statistics li::marker{
+    font-size: 20px;
+    color: red;
+}
